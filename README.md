@@ -1,6 +1,6 @@
 # Sports-Ref-Submission
 
-## This snippet shows my ability to work with objects, data structures, loops, and logic.  
+This snippet shows my ability to work with objects, data structures, loops, and logic.  
 
 ## My Solution
 
